@@ -1,4 +1,4 @@
-describe('OrangeHRM UI-Login page', () => {
+describe('OrangeHRM Login page', () => {
 
   beforeEach(() => {
     cy.visit('https://opensource-demo.orangehrmlive.com')
